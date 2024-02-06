@@ -1,0 +1,31 @@
+@media only screen and (min-width: 930px) {
+   .main-tables-container {
+    display: flex;
+    justify-content: space-between; 
+    align-items: center;
+    width: 930px;
+    margin: 0 auto;
+}
+.arrow-container-right {
+    display: flex;
+    width: 15px;
+    height: 20px;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    left: 180px;
+    top: 132px;
+    margin: auto;
+}
+.pruduct-card__container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 930px;
+    margin: 0 auto;
+    
+}
+.plans-container__slider {
+    justify-content: center;
+} 
+}
+
